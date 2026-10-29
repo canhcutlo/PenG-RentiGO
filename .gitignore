@@ -1,0 +1,24 @@
+## .NET Core / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Development.json
+*.db
+*.log
+
+## Node / Frontend
+node_modules/
+dist/
+build/
+.npm/
+.env.local
+
+## IDE / Agent Caches
+.cursor/
+.windsurf/
+.claude/
+.idea/
+.DS_Store
+Thumbs.db
